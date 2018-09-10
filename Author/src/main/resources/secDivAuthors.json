@@ -1,0 +1,92 @@
+[
+	{
+		"key": "1",
+		"name": "Ramos, Dragon Engine",
+		"manaCost": "{6}",
+		"types": {
+			"type1": "Artifact",
+			"type2": "Creature"
+		},
+		"imageName": "ramos, dragon engine"
+	},
+	{
+		"key": "2",
+		"name": "The Mimeoplasm",
+		"manaCost": "{2}{G}{U}{B}",
+		"types": {
+			"type1": "Ooz",
+			"type2": "Creature"
+		},
+		"imageName": "the mimeoplasm"
+	},
+	{
+		"key": "3",
+		"name": "Ezuri, Claw of Progress",
+		"manaCost": "{2}{G}{U}",
+		"types": {
+			"type1": "Elf",
+			"type2": "Creature"
+		},
+		"imageName": "ezuri, claw of progress"
+	},
+	{
+		"key": "4",
+		"name": "Ramos, Dragon Engine",
+		"manaCost": "{6}",
+		"types": {
+			"type1": "Artifact",
+			"type2": "Creature"
+		},
+		"imageName": "ramos, dragon engine"
+	},
+	{
+		"key": "5",
+		"name": "The Mimeoplasm",
+		"manaCost": "{2}{G}{U}{B}",
+		"types": {
+			"type1": "Ooz",
+			"type2": "Creature"
+		},
+		"imageName": "the mimeoplasm"
+	},
+	{
+		"key": "6",
+		"name": "Ezuri, Claw of Progress",
+		"manaCost": "{2}{G}{U}",
+		"types": {
+			"type1": "Elf",
+			"type2": "Creature"
+		},
+		"imageName": "ezuri, claw of progress"
+	},
+	{
+		"key": "7",
+		"name": "Ramos, Dragon Engine",
+		"manaCost": "{6}",
+		"types": {
+			"type1": "Artifact",
+			"type2": "Creature"
+		},
+		"imageName": "ramos, dragon engine"
+	},
+	{
+		"key": "8",
+		"name": "The Mimeoplasm",
+		"manaCost": "{2}{G}{U}{B}",
+		"types": {
+			"type1": "Ooz",
+			"type2": "Creature"
+		},
+		"imageName": "the mimeoplasm"
+	},
+	{
+		"key": "9",
+		"name": "Ezuri, Claw of Progress",
+		"manaCost": "{2}{G}{U}",
+		"types": {
+			"type1": "Elf",
+			"type2": "Creature"
+		},
+		"imageName": "ezuri, claw of progress"
+	}
+]
